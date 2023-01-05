@@ -13,6 +13,6 @@ The second functionality is activated when multiple images are provided as input
 ## Getting Started
 ### Dependencies 
 - Python 3.10.4
-- OpenCV 4.5.5.
+- OpenCV 4.5.5
 
 ### Executing the Program
