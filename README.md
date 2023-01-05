@@ -1,2 +1,2 @@
-# image-comparison
-Keypoint-based image comparison using SIFT
+## Keypoint-Based Image Comparison Using SIFT
+# hej
