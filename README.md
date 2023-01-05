@@ -18,7 +18,7 @@ The second functionality is activated when multiple images are provided as input
 ### Executing the Program
 The program runs from the command line where the user provides the image file(s) as input.
 To run the program with the first functionality (detect and display keypoints), type the following command with the image you wish to use:
-- siftImages.py imagefile1
+- siftImages.py imagefile
 - E.g.: siftImages.py img01.jpg
 
 To run the program with the second functionality (compare images), type the following command with the images you wish to compare:
