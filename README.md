@@ -4,7 +4,7 @@ This program utilises the SIFT (Scale-Invariant Feature Transform) algorithm to 
 ![image](https://user-images.githubusercontent.com/41973043/210826627-00b99127-5d9c-4d91-95a3-05e316ba609f.png)
 
 ## Description
-This program was developed for a computer vision subject at university with the purpose of exploring the effectiveness of keypoint-based detectors for characterising and comparing images. The program runs in the command prompt and essentially has two major parts or functionalities. 
+This program was developed for a computer vision subject at university with the purpose of exploring the effectiveness of keypoint-based detectors for characterising and comparing images. The program runs in the command prompt and essentially has two major functionalities. 
 
 The first functionality is activated when a single image is provided as input. This part involves using SIFT to detect keypoints from the luminance Y component of the image and highlighting the keypoints with crosses on the image. In addition, a circle is around the keypoint with a radius proportional to the scale of the keypoint and a line from the cross to the circle indicating the orientation of the keypoint. Both the original image (rescaled to VGA comparable size) and the image with the highlighted keypoints are displayed. The number of detected keypoints is also printed to the user.
 
